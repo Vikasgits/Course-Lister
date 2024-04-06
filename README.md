@@ -1,1 +1,1 @@
-Install node packages before running 
+Install node packages before running using "npm install"
